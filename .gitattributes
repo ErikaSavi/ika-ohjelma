@@ -33,6 +33,9 @@ public class App {
             System.out.println("voit jäädä varhaiseläkkeelle");
         }
 
+         if (ika == 65) {
+            System.out.println("hyviä eläkepäiviä");
+        }
 
 
 
