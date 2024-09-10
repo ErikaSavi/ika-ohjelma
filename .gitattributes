@@ -29,6 +29,10 @@ public class App {
             System.out.println("Onnea tasavuosista!");
         }
 
+          if (ika >= 58 && ika < 64) {
+            System.out.println("voit jäädä varhaiseläkkeelle");
+        }
+
 
 
 
